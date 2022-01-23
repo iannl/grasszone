@@ -1,0 +1,26 @@
+Developer:
+iannl
+
+Initial Release date:
+12 September, 2021
+
+Platforms:
+Windows / Mac / Linux / Raspberry Pi
+
+Also playable online at https://www.lexaloffle.com/bbs/?pid=97840
+
+Website:
+https://iannl.github.io/grasszone
+
+Regular Price:
+Free
+
+Description
+In GrassZone you will need to outsmart security guards, avoid spikes, and find the legendary Golden Grass. Can you survive GrassZone, or will we all be doomed? Find out now in GrassZone.
+
+Features
+- 8-bit game design
+- 6+ ways to meet your doom
+- Customizable settings & skin
+- Speedrun mode
+- Hand made 8-bit music & sound effects
