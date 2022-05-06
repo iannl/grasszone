@@ -1,0 +1,13 @@
+.fa-link.custom{
+    color:#808080;scale:0.6;
+    visibility:hidden;
+    text-decoration: none!important;
+}
+.fa-link.custom:hover{
+    color:#0076d1;scale:0.8;
+    cursor: pointer;
+}
+
+h2:hover .fa-link.custom{
+    visibility:visible;
+}
