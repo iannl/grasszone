@@ -10,7 +10,7 @@
     background-repeat:no-repeat;z-index:9999;opacity:0.9;
 }
 h2:target {
-    animation: goredr;
+    animation: gored;
     animation-duration: 3s;
 }
 @keyframes gored {
